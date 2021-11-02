@@ -1,0 +1,58 @@
+
+
+#meunome {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: #612326;
+    background-color: #b3b6b7;
+}
+
+#minhafoto {
+    border-radius:150%;
+    border-style: ridge;
+    border-color: rgba(81, 173, 209, 0.774);
+    border-width: 1px;
+    float: left;
+    margin-right: 40px;
+}
+.tam {
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.tam2 {
+    font-size: 19px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold';
+    font-weight: initial;
+}
+
+.tam3 {
+    font-size: 20px;
+    font-family: unset;
+    font-style: italic;
+}
+
+.tam4 {
+    font-size: 21px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    text-decoration: underline;
+    font-weight: bolder;
+}
+
+.posicao {
+    text-align: center;
+    background-color: #f1ecd7;
+}
+
+#leitor {
+    font-family: monospace;
+}
+
+#minhacidade {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.cordefundo {
+    background-color:#f0f7f0 ;
+}
